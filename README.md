@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm RadjaShiqnals</h1>
 <h3 align="center">I am a student who currently study in IT Highschool</h3>
+<h3 align-"center">https://radjashiqnals.github.io</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radjashiqnals&label=Profile%20views&color=0e75b6&style=plastic" alt="radjashiqnals" /> </p>
 
