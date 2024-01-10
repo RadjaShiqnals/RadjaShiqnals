@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-<script src="https://tryhackme.com/badge/2658511"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/RadjaShiqnals.png" alt="TryHackMe">
 </div>
 
 ###
