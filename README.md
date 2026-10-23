@@ -1,136 +1,53 @@
-<div align="center">
+# Radja Genta Saputra
 
-# 🎧 Radja Genta Saputra (RadjaShiqnals)
+Software Engineer and Tech Lead based in East Java, Indonesia. Currently leading development at **SIDIGS**, focusing on web architecture, backend systems, and developer tooling.
 
-<a href="https://github.com/RadjaShiqnals">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=82B3FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Tech+Lead+%40+SIDIGS;Creator+of+MommyScript+%F0%9F%92%95;Laravel+11+%E2%80%A2+Vue+3+%E2%80%A2+Astro;Linux+%26+Hyprland+Power+User;Vibe+Coding+%26+Anime+Aesthetics" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<p align="center">
-  <a href="https://discord.com/users/249765993868427265"><img src="https://img.shields.io/badge/Discord-82B3FD?style=for-the-badge&logo=discord&logoColor=white&labelColor=161B22" alt="Discord"/></a>
-  <a href="https://linkedin.com/in/radja-genta-saputra"><img src="https://img.shields.io/badge/LinkedIn-9699F8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn"/></a>
-  <a href="https://radjashiqnals.github.io"><img src="https://img.shields.io/badge/Portfolio-FE8A65?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" alt="Portfolio"/></a>
-  <a href="https://x.com/RadjaShiqnals"><img src="https://img.shields.io/badge/X-B0B1FE?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22" alt="X"/></a>
-  <a href="https://instagram.com/RadjaShiqnals"><img src="https://img.shields.io/badge/Instagram-BF2B4B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161B22" alt="Instagram"/></a>
-  <a href="https://youtube.com/@UCJJGnXGukkgW8y06mwCM6eg"><img src="https://img.shields.io/badge/YouTube-B62B47?style=for-the-badge&logo=youtube&logoColor=white&labelColor=161B22" alt="YouTube"/></a>
-</p>
-
-</div>
+[Website](https://radjashiqnals.github.io) • [LinkedIn](https://linkedin.com/in/radja-genta-saputra) • [Discord](https://discord.com/users/249765993868427265) • [GitHub Sponsors](https://github.com/sponsors/RadjaShiqnals)
 
 ---
 
-### 💫 About Me
+## What I Work On
 
-```yaml
-identity: Radja Genta Saputra (RadjaShiqnals)
-role: Full Stack Developer & Tech Lead @ SIDIGS
-alma_mater: SMK Telkom Malang Alumnus
-base: East Java, Indonesia
-aesthetic: Nakano Miku Blue (#82B3FD) • Coral Peach (#FE8A65) • Dark Obsidian (#0D1117)
-core_interests:
-  - Architecture & Enterprise Web Systems (Laravel, Vue 3, Inertia, Astro)
-  - Developer Tooling, Vibe Coding & Custom DSLs
-  - Linux Environments, Hyprland Wayland Compositor & Shell Automation
-  - Anime, Rhythm Games (osu!) & Music
-```
+- **Backend & Web Systems:** Building scalable school management platforms and API services with PHP (Laravel 11), Vue 3, and MySQL.
+- **Frontend & Interfaces:** Modern responsive web applications using Vue, Astro, and Tailwind CSS.
+- **Developer Ergonomics & Linux:** Scripting custom automation tools, shell workflows, and maintaining an Arch-based (CachyOS) Hyprland workstation.
 
 ---
 
-### 🚀 Featured Engineering Spotlight
+## Projects
 
-| Project | Highlights | Tech Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**MommyScript**](https://github.com/RadjaShiqnals/mommyscript) | 💕 A playful meme programming language with mommy/ASMR-flavored syntax. Runs natively via CLI (`mommy run`). | `JavaScript` `Node.js` `DSL` |
-| [**radjashiqnals.github.io**](https://github.com/RadjaShiqnals/radjashiqnals.github.io) | 🌐 Modern personal engineering portal & interactive portfolio playground. | `JavaScript` `Vue` `Tailwind` |
-| [**ffmpeg-cli**](https://github.com/RadjaShiqnals/ffmpeg-cli) | 🎬 A streamlined, vibe-coded CLI utility tailored for rapid multimedia manipulation on Linux. | `Shell` `Bash` `FFmpeg` |
-| [**discord-with-ai**](https://github.com/RadjaShiqnals/discord-with-ai) | 🤖 Intelligent Discord assistant with automated interactions and modular LLM pipelines. | `JavaScript` `Node.js` `Discord.js` |
-| [**NS Daily**](https://github.com/RadjaShiqnals/ns-daily) | 🌙 Mobile-first Islamic habit tracker and productivity web application. | `Laravel` `Blade` `Tailwind CSS` |
-| [**house-management-app**](https://github.com/RadjaShiqnals/house-management-app) | 🏡 Digital residential and household management system with clean relational data models. | `PHP` `Laravel` `MySQL` |
+| [**MommyScript**](https://github.com/RadjaShiqnals/mommyscript) | A toy programming language with playful syntax that compiles and runs on Node.js. | JavaScript, Node.js |
+| [**ffmpeg-cli**](https://github.com/RadjaShiqnals/ffmpeg-cli) | A shell script wrapper providing quick presets for FFmpeg video and audio tasks on Linux. | Bash, FFmpeg |
+| [**discord-with-ai**](https://github.com/RadjaShiqnals/discord-with-ai) | A Discord bot that integrates AI completions into server channels. | Node.js, Discord.js |
+| [**ns-daily**](https://github.com/RadjaShiqnals/ns-daily) | A mobile-first Islamic habit tracker and daily routines web application. | Laravel, Blade, Tailwind CSS |
+| [**house-management-app**](https://github.com/RadjaShiqnals/house-management-app) | A web application for residential property and household management. | Laravel, MySQL |
 
 ---
 
-### 💻 Tech Stack & Developer Arsenal
+## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,vite,tailwind,astro,js,ts,python,mysql,postgres,git,linux,bash&perline=7&theme=dark" alt="Tech Stack Icons" />
-</div>
-
-<br/>
-
-<details>
-  <summary><b>🛠️ Click to expand categorized stack & tooling breakdown</b></summary>
-  <br/>
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Backend & APIs** | PHP 8.x, Laravel 11, Node.js, RESTful Architecture, Bruno CLI (`.bru`) |
-| **Database & Storage** | MySQL, PostgreSQL, Eloquent ORM, Database Migration & Seeding |
-| **Frontend & UI** | Vue 3 (Composition API), Vite, Astro, Tailwind CSS, Inertia.js, HTML5/CSS3 |
-| **Scripting & Systems** | Python, Bash, Fish Shell, Linux (CachyOS), Hyprland Wayland, Git / GitHub |
-| **Creative & Media** | Figma, Framer, Adobe Photoshop, Premiere Pro, After Effects |
-
-</details>
-
-<details>
-  <summary><b>💻 Click to view Developer Workstation & Neofetch Specs</b></summary>
-  <br/>
-
-```text
-       /\         radja@nitro-5
-      /  \        -------------
-     /\   \       OS: CachyOS Linux x86_64
-    /      \      Host: Nitro AN515-57
-   /   ,,   \     Kernel: Linux (Btrfs root)
-  /   |  |  -\    WM: Hyprland (Wayland)
- /_-''    ''-_    Shell: fish
-                  Terminal: Alacritty / Kitty
-                  Editor: Neovim (NvChad) / Antigravity IDE
-                  CPU: 11th Gen Intel i5-11400H
-                  GPU: NVIDIA GeForce RTX 3050 Mobile (4GB) + Intel UHD
-                  Accent Color: Nakano Miku Cyan-Blue (#82B3FD)
-```
-
-</details>
+- **Languages:** PHP, JavaScript, TypeScript, Python, Bash, SQL
+- **Frameworks & Libraries:** Laravel 11, Vue 3, Astro, Tailwind CSS
+- **Databases & Tooling:** MySQL, PostgreSQL, Git, Bruno CLI
+- **Platform:** Linux (CachyOS), Hyprland (Wayland)
 
 ---
 
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&icon_color=fe8a65&bg_color=0d1117&border_color=9699f8&show_icons=true&include_all_commits=true&count_private=true&border_radius=8" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&bg_color=0d1117&border_color=9699f8&layout=compact&include_all_commits=true&count_private=true&border_radius=8" width="49%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadjaShiqnals&background=0D1117&border=9699F8&stroke=82B3FD&ring=FE8A65&fire=FE8A65&currStreakNum=E2E8F0&sideNums=82B3FD&currStreakLabel=FE8A65&sideLabels=B0B1FE&dates=82B3FD&border_radius=8" width="99%" alt="Streak Stats" />
-</div>
-
----
-
-### 🐍 Contribution Activity Snake
+## Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadjaShiqnals/RadjaShiqnals/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadjaShiqnals/RadjaShiqnals/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RadjaShiqnals/RadjaShiqnals/output/github-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RadjaShiqnals/RadjaShiqnals/output/github-snake-dark.svg" width="100%" />
   </picture>
-</div>
-
----
-
-### ☕ Support & Connect
-
-<div align="center">
-  <p>Enjoyed my open-source projects or vibe-coding experiments?</p>
-  <a href="https://paypal.me/radjagentasaputra"><img src="https://img.shields.io/badge/Donate-PayPal-82B3FD?style=for-the-badge&logo=paypal&logoColor=0D1117&labelColor=0D1117" alt="PayPal"/></a>
-  <a href="https://github.com/sponsors/RadjaShiqnals"><img src="https://img.shields.io/badge/Sponsor-GitHub-FE8A65?style=for-the-badge&logo=githubsponsors&logoColor=0D1117&labelColor=0D1117" alt="GitHub Sponsors"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Designed with 💙 Nakano Miku aesthetics & crafted by <a href="https://github.com/RadjaShiqnals">Radja Genta Saputra</a></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&icon_color=fe8a65&bg_color=0d1117&border_color=30363d&show_icons=true&include_all_commits=true&count_private=true&border_radius=6" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&bg_color=0d1117&border_color=30363d&layout=compact&include_all_commits=true&count_private=true&border_radius=6" width="49%" alt="Top Languages" />
 </div>
