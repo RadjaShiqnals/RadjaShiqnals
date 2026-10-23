@@ -3,18 +3,18 @@
 # 🎧 Radja Genta Saputra (RadjaShiqnals)
 
 <a href="https://github.com/RadjaShiqnals">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=82B3FD&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%26+Tech+Lead+%40+SIDIGS;Creator+of+MommyScript+%F0%9F%92%95;Laravel+11+%E2%80%A2+Vue+3+%E2%80%A2+Astro+%E2%80%A2+Tailwind+CSS;Linux+%26+Hyprland+Power+User;Vibe+Coding+%26+Anime+Aesthetics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=82B3FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Tech+Lead+%40+SIDIGS;Creator+of+MommyScript+%F0%9F%92%95;Laravel+11+%E2%80%A2+Vue+3+%E2%80%A2+Astro;Linux+%26+Hyprland+Power+User;Vibe+Coding+%26+Anime+Aesthetics" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
-  <a href="https://discord.com/users/249765993868427265"><img src="https://img.shields.io/badge/Discord-82B3FD?style=for-the-badge&logo=discord&logoColor=0D1117&labelColor=0D1117" alt="Discord"/></a>
-  <a href="https://linkedin.com/in/radja-genta-saputra"><img src="https://img.shields.io/badge/LinkedIn-9699F8?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn"/></a>
-  <a href="https://radjashiqnals.github.io"><img src="https://img.shields.io/badge/Portfolio-FE8A65?style=for-the-badge&logo=google-chrome&logoColor=0D1117&labelColor=0D1117" alt="Portfolio"/></a>
-  <a href="https://x.com/RadjaShiqnals"><img src="https://img.shields.io/badge/X-B0B1FE?style=for-the-badge&logo=x&logoColor=0D1117&labelColor=0D1117" alt="X"/></a>
-  <a href="https://instagram.com/RadjaShiqnals"><img src="https://img.shields.io/badge/Instagram-BF2B4B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/></a>
-  <a href="https://youtube.com/@UCJJGnXGukkgW8y06mwCM6eg"><img src="https://img.shields.io/badge/YouTube-B62B47?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/></a>
+  <a href="https://discord.com/users/249765993868427265"><img src="https://img.shields.io/badge/Discord-82B3FD?style=for-the-badge&logo=discord&logoColor=white&labelColor=161B22" alt="Discord"/></a>
+  <a href="https://linkedin.com/in/radja-genta-saputra"><img src="https://img.shields.io/badge/LinkedIn-9699F8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn"/></a>
+  <a href="https://radjashiqnals.github.io"><img src="https://img.shields.io/badge/Portfolio-FE8A65?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" alt="Portfolio"/></a>
+  <a href="https://x.com/RadjaShiqnals"><img src="https://img.shields.io/badge/X-B0B1FE?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22" alt="X"/></a>
+  <a href="https://instagram.com/RadjaShiqnals"><img src="https://img.shields.io/badge/Instagram-BF2B4B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161B22" alt="Instagram"/></a>
+  <a href="https://youtube.com/@UCJJGnXGukkgW8y06mwCM6eg"><img src="https://img.shields.io/badge/YouTube-B62B47?style=for-the-badge&logo=youtube&logoColor=white&labelColor=161B22" alt="YouTube"/></a>
 </p>
 
 </div>
@@ -100,11 +100,11 @@ core_interests:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&icon_color=fe8a65&bg_color=0d1117&border_color=9699f8&show_icons=true&include_all_commits=true&count_private=true&border_radius=8" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadjaShiqnals&title_color=82b3fd&text_color=b0b1fe&bg_color=0d1117&border_color=9699f8&layout=compact&include_all_commits=true&count_private=true&border_radius=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&bg_color=0d1117&border_color=9699f8&layout=compact&include_all_commits=true&count_private=true&border_radius=8" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadjaShiqnals&background=0D1117&border=9699F8&stroke=82B3FD&ring=FE8A65&fire=FE8A65&currStreakNum=B0B1FE&sideNums=82B3FD&currStreakLabel=FE8A65&sideLabels=B0B1FE&dates=82B3FD&border_radius=8" width="99%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadjaShiqnals&background=0D1117&border=9699F8&stroke=82B3FD&ring=FE8A65&fire=FE8A65&currStreakNum=E2E8F0&sideNums=82B3FD&currStreakLabel=FE8A65&sideLabels=B0B1FE&dates=82B3FD&border_radius=8" width="99%" alt="Streak Stats" />
 </div>
 
 ---
