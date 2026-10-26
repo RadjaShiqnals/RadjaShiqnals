@@ -48,6 +48,6 @@ Software Engineer and Tech Lead based in East Java, Indonesia. Currently leading
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&icon_color=fe8a65&bg_color=0d1117&border_color=30363d&show_icons=true&include_all_commits=true&count_private=true&border_radius=6" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&bg_color=0d1117&border_color=30363d&layout=compact&include_all_commits=true&count_private=true&border_radius=6" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&icon_color=fe8a65&bg_color=0d1117&border_color=30363d&show_icons=true&include_all_commits=true&count_private=true&border_radius=6" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadjaShiqnals&title_color=82b3fd&text_color=e2e8f0&bg_color=0d1117&border_color=30363d&layout=compact&include_all_commits=true&count_private=true&border_radius=6" height="165" alt="Top Languages" />
 </div>
